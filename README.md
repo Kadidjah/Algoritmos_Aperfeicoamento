@@ -3,7 +3,7 @@
 Este repositório contém as atividades, códigos-fonte e materiais de apoio das aulas do curso de **Aprimoramento | Nivelamento em Algoritmos** do UDF. O objetivo central é capacitar o estudante a analisar problemas de negócio, identificar dados necessários e estruturar soluções lógicas utilizando as melhores práticas de controle de fluxo e organização.
 
 ## Professora:
-*   **Kadidja Valéria** - [kadidja.oliveira@gmail.com](mailto:kadidja.oliveira@gmail.com) | [GitHub](https://github.com/Kadidjah/)
+*   **Kadidja Valéria** - [kadidja.oliveira@gmail.com](mailto:kadidja.oliveira@udf.edu.br) | [GitHub](https://github.com/Kadidjah/)
 
 ## 🎯 Objetivo do Curso
 Desenvolver a competência de transformar problemas reais em soluções computacionais estruturadas. Ao final das **10 horas** de curso, o aluno será capaz de dominar desde o pensamento computacional básico até a modularização de sistemas.
