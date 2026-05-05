@@ -1,6 +1,4 @@
-https://visualg.com.br/
-
-## 🧠 O que é o Visualg?
+## O que é o Visualg?
 
 O **Visualg (ou VisuAlg)** é uma ferramenta muito usada por iniciantes para aprender **lógica de programação**.
 
@@ -10,7 +8,7 @@ Na prática, ele funciona como um “simulador” de programação, ajudando voc
 
 ---
 
-## ✔️ Para que ele serve?
+## Para que ele serve?
 
 * Aprender **lógica de programação do zero**
 * Escrever algoritmos em português estruturado
