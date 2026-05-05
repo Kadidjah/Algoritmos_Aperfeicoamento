@@ -42,17 +42,16 @@ print(f"Disponível: {disponivel}")
   - `int` → números inteiros
   - `bool` → valores lógicos (`True` / `False`)
 
-- **Entrada:** `input()` sempre retorna texto, por isso usamos `int()` para converter o ano.  
+- **Entrada:** `input()` sempre retorna texto, por isso usamos `int()` para converter o ano.
 
-- **Processamento:** transformamos a resposta `"sim/não"` em um valor lógico.  
+- **Processamento:** transformamos a resposta `"sim/não"` em um valor lógico.
 
-- **Saída:** usamos `f-strings` para organizar a frase final.  
+- **Saída:** usamos `f-strings` para organizar a frase final.
 
 ---
 
 ## Desafio Extra
 
-Expanda o programa para cadastrar **dois livros** e exibir ambos ao final.  
+Expanda o programa para cadastrar **dois livros** e exibir ambos ao final.
 
 👉 Esse exercício reforça o uso de variáveis e prepara para o conteúdo de **listas (arrays)** na **Aula 08**.
-
