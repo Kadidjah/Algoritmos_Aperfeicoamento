@@ -27,3 +27,41 @@ Aprender a utilizar operadores lógicos e condições encadeadas para resolver p
      FimSe
   FimSe
 
+## Visualg
+
+# Aula 05 - Tomada de Decisão II
+## Algoritmo em Visualg: Classificação de Atletas por Idade
+
+---
+
+### Código Completo
+```pseudocode
+Algoritmo "ClassificacaoAtletasCompleta"
+Var
+   idade: inteiro
+Inicio
+   Escreva("Digite a idade do atleta: ")
+   Leia(idade)
+
+   Se (idade < 12) Então
+      Escreval("Categoria: Infantil")
+   Senão
+      Se (idade < 18) Então
+         Escreval("Categoria: Juvenil")
+      Senão
+         Se (idade < 30) Então
+            Escreval("Categoria: Adulto Jovem")
+         Senão
+            Se (idade < 45) Então
+               Escreval("Categoria: Adulto Intermediário")
+            Senão
+               Se (idade < 60) Então
+                  Escreval("Categoria: Adulto Sênior")
+               Senão
+                  Escreval("Categoria: Master")
+               FimSe
+            FimSe
+         FimSe
+      FimSe
+   FimSe
+FimAlgoritmo
