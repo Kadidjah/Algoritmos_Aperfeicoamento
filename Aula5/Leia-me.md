@@ -65,3 +65,14 @@ Inicio
       FimSe
    FimSe
 FimAlgoritmo
+
+## Explicação
+
+Variável: idade (inteiro).
+
+Entrada: o usuário fornece a idade.
+
+Processamento: decisão encadeada com base em faixas etárias.
+
+Saída: categoria do atleta, incluindo subcategorias dentro de Adulto.
+
